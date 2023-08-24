@@ -1,0 +1,1187 @@
+/* orbitron-regular - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/orbitron-v25-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/orbitron-v25-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/orbitron-v25-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/orbitron-v25-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/orbitron-v25-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/orbitron-v25-latin-regular.svg#Orbitron') format('svg');
+    /* Legacy iOS */
+}
+
+/* orbitron-500 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/orbitron-v25-latin-500.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/orbitron-v25-latin-500.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/orbitron-v25-latin-500.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/orbitron-v25-latin-500.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/orbitron-v25-latin-500.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/orbitron-v25-latin-500.svg#Orbitron') format('svg');
+    /* Legacy iOS */
+}
+
+/* orbitron-600 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/orbitron-v25-latin-600.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/orbitron-v25-latin-600.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/orbitron-v25-latin-600.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/orbitron-v25-latin-600.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/orbitron-v25-latin-600.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/orbitron-v25-latin-600.svg#Orbitron') format('svg');
+    /* Legacy iOS */
+}
+
+/* orbitron-700 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/orbitron-v25-latin-700.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/orbitron-v25-latin-700.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/orbitron-v25-latin-700.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/orbitron-v25-latin-700.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/orbitron-v25-latin-700.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/orbitron-v25-latin-700.svg#Orbitron') format('svg');
+    /* Legacy iOS */
+}
+
+/* orbitron-800 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/orbitron-v25-latin-800.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/orbitron-v25-latin-800.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/orbitron-v25-latin-800.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/orbitron-v25-latin-800.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/orbitron-v25-latin-800.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/orbitron-v25-latin-800.svg#Orbitron') format('svg');
+    /* Legacy iOS */
+}
+
+/* orbitron-900 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fonts/orbitron-v25-latin-900.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/orbitron-v25-latin-900.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/orbitron-v25-latin-900.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/orbitron-v25-latin-900.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/orbitron-v25-latin-900.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/orbitron-v25-latin-900.svg#Orbitron') format('svg');
+    /* Legacy iOS */
+}
+
+/* red-hat-display-300 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/red-hat-display-v14-latin-300.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/red-hat-display-v14-latin-300.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/red-hat-display-v14-latin-300.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-300.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-300.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/red-hat-display-v14-latin-300.svg#RedHatDisplay') format('svg');
+    /* Legacy iOS */
+}
+
+/* red-hat-display-regular - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/red-hat-display-v14-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/red-hat-display-v14-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/red-hat-display-v14-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/red-hat-display-v14-latin-regular.svg#RedHatDisplay') format('svg');
+    /* Legacy iOS */
+}
+
+/* red-hat-display-500 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/red-hat-display-v14-latin-500.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/red-hat-display-v14-latin-500.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/red-hat-display-v14-latin-500.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-500.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-500.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/red-hat-display-v14-latin-500.svg#RedHatDisplay') format('svg');
+    /* Legacy iOS */
+}
+
+/* red-hat-display-600 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/red-hat-display-v14-latin-600.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/red-hat-display-v14-latin-600.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/red-hat-display-v14-latin-600.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-600.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-600.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/red-hat-display-v14-latin-600.svg#RedHatDisplay') format('svg');
+    /* Legacy iOS */
+}
+
+/* red-hat-display-700 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/red-hat-display-v14-latin-700.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/red-hat-display-v14-latin-700.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/red-hat-display-v14-latin-700.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-700.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-700.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/red-hat-display-v14-latin-700.svg#RedHatDisplay') format('svg');
+    /* Legacy iOS */
+}
+
+/* red-hat-display-800 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/red-hat-display-v14-latin-800.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/red-hat-display-v14-latin-800.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/red-hat-display-v14-latin-800.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-800.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-800.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/red-hat-display-v14-latin-800.svg#RedHatDisplay') format('svg');
+    /* Legacy iOS */
+}
+
+/* red-hat-display-900 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fonts/red-hat-display-v14-latin-900.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/red-hat-display-v14-latin-900.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/red-hat-display-v14-latin-900.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-900.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/red-hat-display-v14-latin-900.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/red-hat-display-v14-latin-900.svg#RedHatDisplay') format('svg');
+    /* Legacy iOS */
+}
+
+/* -------------------------------------------------------------------------------------------------------------------------------- */
+
+/* -------------custom css------- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --dark-bgcolor: #000410;
+    --section: #0965d2;
+    --lightblue: #13E1DA;
+    --gradient-lightyellow: radial-gradient(at center left, #CCFF00 0%, #F2FF00 100%);
+    --white: #fff;
+    --black: #151515;
+    --dark_oreng: #FF9D22;
+    --grey: #999999;
+}
+
+::selection {
+    color: var(--white);
+    background-color: var(--section);
+}
+
+body {
+    background: var(--dark-bgcolor);
+    color: var(--white);
+    font-family: 'Red Hat Display';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Orbitron';
+}
+
+.container {
+    width: 1300px;
+    margin: auto;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-warp {
+    flex-wrap: wrap;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.spacery {
+    padding: 100px 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+li,
+ol {
+    list-style-type: none;
+}
+
+.pt-10 {
+    padding: 10px 0;
+}
+
+a {
+    color: #fff;
+}
+
+/*  */
+/*  */
+h1 {
+    font-size: 38px;
+
+}
+
+.ab {
+    color: #999999;
+    padding: 10px 7px;
+    font-size: 16px;
+    border-radius: 50%;
+}
+
+.icon span {
+    margin-left: 20px;
+}
+
+.right {
+    padding-top: 10px;
+}
+
+.right p {
+    margin-right: 10px;
+    color: #999999;
+}
+
+.tophedder {
+    border-bottom: 1px solid #fff;
+}
+
+/*  */
+/*  */
+.header .left {
+    padding-top: 26px;
+}
+
+.main_menu {
+    padding-top: 23px;
+    padding-bottom: 33px;
+    /* margin-left: 27px; */
+
+}
+
+.bc {
+    text-align: center;
+    align-items: center;
+    margin-left: 27px;
+}
+
+.bc:hover {
+    color: #13e1da;
+}
+
+/*  */
+/* home css */
+.home1 img {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    object-fit: cover;
+}
+
+.home1 span {
+    text-align: center;
+    font-family: "orbitron";
+    margin-left: 400px;
+    margin-top: 51px;
+    line-height: 0.9em;
+    background-color: transparent;
+    color: #17EDD3;
+    /* background-image: linear-gradient(80deg, #00A3FF 0%, #17EDD3 100%); */
+    /* -webkit-text-fill-color: transparent; */
+    width: 50%;
+    position: absolute;
+    left: 0;
+    font-size: 144px;
+    font-weight: 700;
+}
+
+.home1 p {
+    position: absolute;
+    font-family: "Red Hat Display", Sans-serif;
+    top: 483px;
+    left: 400px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38px;
+    width: 50%;
+    letter-spacing: 1.3px;
+}
+
+/*  */
+/* story css */
+.our_story .left {
+    width: 610px;
+}
+
+.our_story .right {
+    width: 610px;
+    margin-left: 30px;
+}
+
+.our_story .left img {
+    width: 390px;
+    height: 292px;
+    /* margin-top: 1151px; */
+    margin-left: 15px;
+    position: relative;
+}
+
+.our_story span {
+    position: absolute;
+    font-family: "orbitron";
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 0.9em;
+    color: #13e1da;
+    margin-top: 389px;
+    left: 45px;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    transition: .3s;
+}
+
+.our_story span:hover {
+    color: #fff;
+}
+
+.our_story p {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 47px;
+    width: 75%;
+    color: #fff;
+    font-family: "Red Hat Display", Sans-serif;
+}
+
+.our_story .right img {
+    width: 610px;
+    height: 456px;
+    margin-top: 89px;
+}
+
+/* slider1 css */
+.slider {
+    position: relative;
+}
+
+.owl-carousel button {
+    position: absolute;
+    top: 150px;
+    right: 0;
+}
+
+.s-img {
+    width: 610px;
+    height: 458px;
+    margin-top: 240px;
+}
+
+.owl-carousel .owl-nav {
+    right: 0;
+}
+
+.something {
+    position: relative;
+}
+
+.s-title h6 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #F2FF00;
+    position: absolute;
+    top: 17%;
+}
+
+.owl-carousel .owl-nav button.owl-next {
+    margin-right: 40PX;
+    border-radius: 5px;
+    border: 2px solid #949494 !important;
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    right: 1%;
+}
+
+.owl-carousel .owl-nav button.owl-prev {
+    margin-left: 20px;
+    border: 2px solid #949494 !important;
+    border-radius: 5px;
+    height: 40px;
+    width: 40px;
+}
+
+.c-0 {
+    color: #949494;
+}
+
+.slider-inner h1 a {
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 50px !important;
+    display: block;
+    cursor: pointer;
+    margin-bottom: 20px;
+    transition: .3s;
+}
+
+.slider-inner a:hover {
+    color: #F2FF00;
+}
+
+.slider-inner span {
+    margin-left: 70px;
+    color: #949494;
+}
+
+/*  */
+/* nesw css  */
+
+.nesw {
+    padding: 237px 15px 0px 15px;
+    position: relative;
+    padding-bottom: 107px;
+}
+
+.owl-carousel .owl-nav button.owl-next {
+    position: absolute;
+    top: -95px;
+}
+
+.owl-carousel .owl-nav button.owl-prev {
+    position: absolute;
+    top: -95px;
+}
+
+.n-title h6 {
+    position: absolute;
+    top: 145px;
+    text-transform: uppercase;
+    font-size: 36px;
+    color: #e544ff;
+    font-weight: 700;
+    line-height: 40px;
+    font-family: 'Orbitron';
+}
+
+.s2 img {
+    margin-bottom: 50px;
+}
+
+.s2-inner h1 {
+    font-size: 24px;
+    margin-bottom: 13px;
+}
+
+.s2-inner h1 a {
+    transition: .3s;
+    font-family: 'Red Hat Display';
+    font-weight: 700;
+    line-height: 31px;
+}
+
+.s2-inner a:hover {
+    color: #F2FF00;
+}
+
+.s2-inner span {
+    margin-left: 70px;
+}
+
+.date {
+    padding-bottom: 24px;
+}
+
+.s2-inner p {
+    font-size: 18px;
+    line-height: 27px;
+    font-family: 'Red Hat Display';
+    color: #999;
+    padding-bottom: 23px;
+    text-align: left;
+}
+
+.more a {
+    font-family: "Orbitron", Sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #F2FF00;
+    transition: .3s;
+}
+
+.more i {
+    color: #F2FF00;
+    margin-left: 10px;
+    font-size: 18px;
+    transition: .3s;
+}
+
+.more:hover a {
+    color: var(--white);
+}
+
+/*  */
+/* article css */
+
+.a-title h1 {
+    font-size: 36px;
+    font-family: 700;
+    font-family: "Orbitron";
+    background-color: transparent;
+    text-transform: uppercase;
+    line-height: 40px;
+    margin-bottom: 50px;
+    color: #0965d2;
+}
+
+.a-inner h1 a {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 50px !important;
+    display: block;
+    cursor: pointer;
+    margin-bottom: 20px;
+    transition: .3s;
+}
+
+.a-inner a:hover {
+    color: #F2FF00;
+}
+
+.a-inner span {
+    margin-left: 70px;
+    color: #949494;
+}
+
+#slider3 img {
+    object-fit: cover;
+    width: 280px;
+    height: 210px;
+    margin-top: 0;
+}
+
+.article {
+    margin-bottom: 127px;
+}
+
+/*  */
+/* portel css */
+.portel {
+    background-image: url(../img/asset\ 16.webp);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.p-con {
+    padding: 221px 15px 202px 15px;
+    margin-bottom: 127px;
+}
+
+.p-inner h1 {
+    font-size: 144px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 0.9em;
+    font-family: 'Orbitron';
+    color: #00A3FF;
+    margin-left: 555px;
+}
+
+.p-inner p {
+    padding: 0% 12.6% 0% 0%;
+    margin-left: 555px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38px;
+    margin-top: 43px;
+}
+
+.f-title h1 {
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 40px;
+    color: #F2FF00;
+}
+
+.f-title {
+    margin-bottom: 45px;
+}
+
+.w-33 {
+    width: 33.33%;
+    margin: 10px 15px;
+    display: block;
+}
+
+.w-33 li img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-position: center;
+    /* padding: 30px; */
+}
+
+.n-bg {
+    background-image: url(../img/asset\ 17.webp);
+    padding: 30px;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg2 {
+    background-image: url(../img/asset\ 18.webp);
+    padding: 30px;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg3 {
+    background-image: url(../img/asset\ 19.webp);
+    padding: 30px;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.bg {
+    background-image: url(../img/asset\ 20.webp);
+    padding: 30px;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.bg5 {
+    background-image: url(../img/asset\ 21.webp);
+    padding: 30px;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.bg6 {
+    background-image: url(../img/asset\ 22.webp);
+    padding: 30px;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.n-bg i {
+    color: #F2FF00;
+    margin-right: 10px;
+}
+
+.n-bg span {
+    margin-left: 50px;
+}
+
+.n-in {
+    margin-top: 190px;
+}
+
+.n-bg h1 a {
+    font-size: 18px;
+    line-height: 23px;
+    font-weight: 700;
+    font-family: 'Red Hat Display';
+    transition: .3s;
+}
+
+.n-bg h1 {
+    margin-top: -10px;
+}
+
+.n-bg:hover h1 a {
+    color: #F2FF00;
+}
+
+.n-bg {
+    position: relative;
+}
+
+.ps4 {
+    position: absolute;
+    background-color: #13E1DA;
+    padding: 4px 9px 4px 10px;
+    top: 30px;
+    left: 30px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+    transition: .3s;
+}
+
+.review {
+    position: absolute;
+    background-color: #13E1DA;
+    padding: 5px 9px 5px 10px;
+    top: 30px;
+    font-size: 14px;
+    color: #000;
+    font-weight: 700;
+    left: 85px;
+    transition: .3s;
+}
+
+.review:hover {
+    background-color: orangered;
+}
+
+.ps4:hover {
+    background-color: orangered;
+}
+.f-nesw {
+    margin-bottom: 25px;
+}
+/*  */
+/* email css */
+
+
+.email {
+    margin-top: 127px;
+}
+.bg-yellow {
+    padding: 146px 15px 150px 15px;
+    background-image: radial-gradient(at center left, #CCFF00 10%, #F2FF00 100%);
+}
+.e-in {
+    text-align: center;
+}
+.e-in h1 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #151515;
+    text-transform: uppercase;
+    line-height: 0.9em;
+    font-family: 'Orbitron';
+    margin-bottom: 8px;
+}
+.e-in p {
+    font-size: 24px;
+    line-height: 38px;
+    font-family: 'Red Hat Display';
+    color: #000;
+    margin-bottom: 24px;
+    font-weight: 400
+}
+.e-in input {
+    margin-bottom: 24px;
+    background-color: transparent;
+    border: 2px solid #000;
+    border-radius: 5px;
+    width: 55%;
+    height: 60px;
+    padding-left: 25px;
+    padding: 13px 73px 14px 28px;
+    font-family: 'Red Hat Display';
+    position: relative;
+}
+.e-in input::placeholder {
+    font-size: 18px;
+    color: #151515;
+    font-weight: 400;
+}
+.email {
+    position: relative;
+    margin-bottom: 137px;
+}
+.e-in i {
+    position: absolute;
+    font-size: 30px;
+    right: 27%;
+    top: 52.5%;
+    color: #000;
+}
+.policy  span {
+    color: #000;
+}
+.policy span a {
+    color: #000;
+    text-decoration: underline;
+    transition: .3s;
+}
+.policy span a:hover {
+    color: orange;
+}
+/*  */
+/* follow css */
+.follow {
+    padding-bottom: 127px;
+    border-bottom: 2px solid #fff;
+}
+.follo h3 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: .9em;
+    color: #fff;
+    margin-bottom: 19px;
+}
+.follo h1 {
+    font-size: 72px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #0965d2;
+    text-align: center;
+    font-family: 'Orbitron';
+    line-height: 0.9em
+}
+/*  */
+/* footer css */
+
+.ftr {
+    padding: 127px 0;
+}
+.f-left, .f-right {
+    width: 50%;
+    padding: 0 15px;
+}
+.f-inner h1 {
+    font-size: 18px;
+    color: #CCFF00;
+    font-family: 'Orbitron';
+    font-weight: 700;
+    line-height: 0.9em;
+    margin-bottom: 48px;
+}
+.s-i {
+    margin-bottom: 64px;
+}
+.social-info li{
+    margin-right: 38px;
+    font-size: 24px;
+    line-height: 1.3em;
+    font-weight: 700;
+    transition: .3s;
+}
+.social-info li:hover a {
+    color: #CCFF00;
+}
+.social-info p {
+    margin-bottom: 62px;
+    color: #999;
+    font-family: 'Red Hat Display';
+    font-size: 18px;
+    line-height: 29px;
+    font-weight: 400;
+}
+.c-btn{
+    margin-top: 30px;
+    padding: 22px 47px 25px 46px;
+    border: 2px solid #CCFF00;
+    border-radius: 10px;
+    align-items: center;
+    font-weight: 700;
+    transition: .3s;
+}
+.c-btn i {
+    color: #CCFF00;
+    transform: rotate(-30deg);
+    margin-right: 10px;
+    transition: .3s;
+}
+.c-btn:hover {
+    background-color: #fff;
+    color: #000;
+    border: 2px solid #fff;
+}
+.c-btn:hover i {
+    color: #000;
+}
+.quick, .qsn {
+    width: 50%;
+}
+.quick h2 {
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Orbitron';
+    color: #CCFF00;
+    line-height: 0.9em;
+    text-transform: uppercase;
+    margin-bottom: 48px;
+}
+.link a {
+    font-size: 18px;
+    line-height: 40px;
+    font-weight: 400;
+    display: block;
+    color: #999;
+    text-transform: uppercase;
+    transition: .3s;
+    width: 100%;
+}
+.link a:hover {
+    color: #fff;
+}
+
+.right-in h2{
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Orbitron';
+    color: #CCFF00;
+    line-height: 0.9em;
+    text-transform: uppercase;
+    margin-bottom: 48px;
+}
+.qustion p {
+    margin-bottom: 21px;
+    font-size: 18px;
+    line-height: 23px;
+    font-weight: 400;
+    font-family: 'Red Hat Display';
+    color: #fff;
+}
+.qustion span i {
+    transform: rotate(-30deg);
+    margin-right: 15px;
+    margin-top: 5px;
+    font-size: 21px;
+    color: #ccff00;
+}
+.qustion span a {
+    font-weight: 700;
+    color: #fff;
+    font-size: 18px;
+    transition: .3s;
+}
+.eml a {
+    margin-top: 25px;
+    text-decoration: underline;
+    display: block;
+    transition: .3s;
+}
+.qustion a:hover {
+    color: #CCFF00;
+}
+
+.last {
+    margin-top: 150px;
+    padding-left: 15px;
+}
+.last span a {
+    color: #CCFF00;
+    transition: .3s;
+}
+.last span a:hover {
+    color: #fff;
+}
+.last span {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+}
+.last p {
+    line-height: 22px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #999;
+    margin-top: 25px;
+}
+
+
+/*  */
+/* pc css */
+
+.pc {
+    color: #00A3FF;
+}
+.pc-home h1 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #00A3FF;
+    font-family: 'Red Hat Display';
+}
+.pc-home h1 a {
+    margin-right: 5px;
+} 
+.pc-head {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.pc-head h1 {
+    font-size: 36px;
+    color: #CCFF00;
+    font-family: 'red Hat Display';
+    line-height: 1.3;
+}
+.pc-in .item {
+    width: 33.33%;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.pc-in .s2 img {
+    width: 100%;
+    height: 100%;
+}
+.pc-in {
+    margin-top: 130px;
+    margin-bottom: 190px;
+}
+.pc-line {
+    border-bottom: 2px solid #fff;
+    margin-bottom: 100px;
+}
+.mt-0 {
+    margin-top: -25px !important;
+}
+
+/*  */
+/* android css */
+
+.and-act {
+    color: #0965d2;
+}
